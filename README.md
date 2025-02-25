@@ -1,11 +1,7 @@
 ## Hi there! 👋 I'm Francesco Passiatore  
 
-🔭 I’m currently working on **[your current project or job]**  
-🌱 I’m learning **[technologies or skills you’re focused on]**  
-👯 I’m open to collaborating on **[topics or projects that interest you]**  
-💬 Ask me about **[your expertise or favorite topics]**  
-📫 Reach me at **[your email or social links]**  
-⚡ Fun fact: **[something interesting about you]**  
+I'm currently a student at Politecnico di Torino.
+My course studies are based on Artificial Intelligence and Data Analysis. 
 
 ### 🚀 Technologies & Tools  
 ![Your Tech Stack](https://skillicons.dev/icons?i=python,js,react,git,java,rust,ts)  
