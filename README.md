@@ -11,7 +11,7 @@ My course studies are based on Artificial Intelligence and Data Analysis.
 
 
 ### 📈 Languages most used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPassiatore&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPassiatore&layout=compact&theme=radical&include_all_commits=true&count_private=true)  
 
 
 ### 🔗 Connect with Me  
