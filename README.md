@@ -9,11 +9,15 @@ My course studies are based on Artificial Intelligence and Data Analysis.
 ### 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPassiatore&show_icons=true&theme=radical)  
 
-
-### 📈 Languages Most Used  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPassiatore&layout=compact&theme=radical&include_all_commits=true&count_private=true)
-
-
 ### 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)  
+<p>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
