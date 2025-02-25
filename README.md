@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there! 👋 I'm Francesco Passiatore  
 
-<!--
-**FrancescoPassiatore/FrancescoPassiatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on **[your current project or job]**  
+🌱 I’m learning **[technologies or skills you’re focused on]**  
+👯 I’m open to collaborating on **[topics or projects that interest you]**  
+💬 Ask me about **[your expertise or favorite topics]**  
+📫 Reach me at **[your email or social links]**  
+⚡ Fun fact: **[something interesting about you]**  
 
-Here are some ideas to get you started:
+### 🚀 Technologies & Tools  
+![Your Tech Stack](https://skillicons.dev/icons?i=python,js,react,git,docker,linux)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPassiatore&show_icons=true&theme=radical)  
+
+### 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)  
