@@ -8,7 +8,7 @@
 ⚡ Fun fact: **[something interesting about you]**  
 
 ### 🚀 Technologies & Tools  
-![Your Tech Stack](https://skillicons.dev/icons?i=python,js,react,git,docker,linux)  
+![Your Tech Stack](https://skillicons.dev/icons?i=python,js,react,git,java,rust,ts)  
 
 ### 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPassiatore&show_icons=true&theme=radical)  
