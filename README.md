@@ -1,15 +1,16 @@
-## Hi there! 👋 I'm Francesco Passiatore  
+## 👋 Hi there! I'm **Francesco Passiatore**  
 
-I'm currently a student at Politecnico di Torino.
-My course studies are based on Artificial Intelligence and Data Analysis. 
+🎓 **Current student at Politecnico di Torino**  
+🚀 **Specializing in Artificial Intelligence & Data Analysis**
 
-### 🚀 Technologies & Tools  
-![Your Tech Stack](https://skillicons.dev/icons?i=python,js,react,git,java,rust,ts)  
+### 🛠️ Technologies & Tools  
+![Tech Stack](https://skillicons.dev/icons?i=python,js,react,git,java,rust,ts)  
 
 ### 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPassiatore&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancescoPassiatore&show_icons=true&theme=radical)  
 
-### 🔗 Connect with Me  
+### 🌐 Connect with Me  
+
 <p>
   <a href="https://www.linkedin.com/in/francesco-passiatore-a0432a353" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,5 +18,9 @@ My course studies are based on Artificial Intelligence and Data Analysis.
 
   <a href="mailto:frank.passiatore@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://github.com/FrancescoPassiatore" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
