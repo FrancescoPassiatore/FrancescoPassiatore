@@ -11,13 +11,11 @@ My course studies are based on Artificial Intelligence and Data Analysis.
 
 ### 🔗 Connect with Me  
 <p>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/francesco-passiatore-a0432a353" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+
+  <a href="mailto:frank.passiatore@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
