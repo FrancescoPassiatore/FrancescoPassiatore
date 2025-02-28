@@ -9,9 +9,6 @@
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancescoPassiatore&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPassiatore&layout=compact&theme=radical)
-
-
 ### 🌐 Connect with Me  
 
 <p>
