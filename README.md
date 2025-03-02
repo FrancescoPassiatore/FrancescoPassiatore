@@ -6,9 +6,6 @@
 ### 🛠️ Technologies & Tools  
 ![Tech Stack](https://skillicons.dev/icons?i=python,js,react,git,java,rust,ts)  
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancescoPassiatore&show_icons=true&theme=radical)  
-
 ### 🌐 Connect with Me  
 
 <p>
